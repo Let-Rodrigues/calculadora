@@ -42,16 +42,5 @@ calculadora/
 * Melhorar a responsividade da interface para diferentes tamanhos de tela.
 * Adicionar testes unitários para a lógica da calculadora.
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você tiver alguma sugestão de melhoria ou encontrar algum bug, por favor, abra uma issue ou envie um pull request.
-
-## Autor
-
-* \[Seu Nome]
-
-## Licença
-
-Este projeto está sob a licença \[Tipo de Licença].
 
 ![image](https://github.com/user-attachments/assets/2668a5e5-7ce6-429f-88dd-30cc67f4a174)
